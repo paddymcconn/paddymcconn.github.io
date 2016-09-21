@@ -535,9 +535,9 @@ Features-stack
     padding-bottom: 0px;
     border-bottom: none; }
  .features .ipad-wrap {
-    width: 400px;
-    height: 400px;
-    background: url("/img/mee.jpg") no-repeat top ;
+    width: 300px;
+    height: 300px;
+    background: url("/img/meCircle.gif") no-repeat top ;
      z-index: 1; }
   .features .iphone-wrap {
     width: 304px;
