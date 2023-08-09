@@ -16,14 +16,16 @@ this is the link refs to import stylesheets.
 14         <link href="https://fonts.googleapis.com/css?family=Londrina+Outline" rel="stylesheet">
 15         <link rel="stylesheet" href="css/normalize.min.css">
 16         <link rel="stylesheet" href="css/bootstrap.min.css">
-17         <link rel="stylesheet" href="css/jquery.fancybox.css">
-18         <link rel="stylesheet" href="css/flexslider.css">
-19         <link rel="stylesheet" href="css/styles.css">
-20         <link rel="stylesheet" href="css/queries.css">
-21         <link rel="stylesheet" href="css/etline-font.css">
-22         <link rel="stylesheet" href="css/circle.css">
-23         <link rel="stylesheet" href="css/custom.css">
-24         
+17         
+18         <link rel="stylesheet" href="css/bootstrap.min.css">
+19         <link rel="stylesheet" href="css/bootstrap.min.css">
+20         <link rel="stylesheet" href="css/bootstrap.min.css">
+21         <link rel="stylesheet" href="css/bootstrap.min.css">
+22         
+23         <link rel="stylesheet" href="css/jquery.fancybox.css">
+24         <link rel="stylesheet" href="css/flexslider.css">
+25         <link rel="stylesheet" href="css/styles.css">
+26         
 ```
 
 <br/>
